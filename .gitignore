@@ -1,0 +1,36 @@
+ Node.js
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+*.js
+*.js.map
+
+# Visual Studio Code
+.vscode/
+
+# Jest
+coverage/
+
+# NPM
+package-lock.json
+
+# Yarn
+yarn-error.log
+yarn.lock
+
+# Dependency directories
+lib/
+bin/
+dist/
+
+# Editor directories and files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+
+#ignore build
+build/*
